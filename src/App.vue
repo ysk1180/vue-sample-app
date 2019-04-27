@@ -4,6 +4,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
+    <router-link to="/add-smoothie">追加</router-link>
     <router-view/>
   </div>
 </template>
