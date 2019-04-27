@@ -1,5 +1,7 @@
 # vue-sample
 
+Vueハンズオンで作成した、シンプルなレシピのメモアプリです
+
 ## Project setup
 ```
 yarn install
